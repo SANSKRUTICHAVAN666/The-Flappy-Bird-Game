@@ -21,8 +21,7 @@ This project is a simple implementation of the classic Flappy Bird game. The pla
    python flappy_bird.py
 
 ## Controls
-- Press **Spacebar** to make the bird jump.
+- Press **Spacebar** or **up arrow** to make the bird jump.
 - Avoid hitting pipes or the ground.
 
-## Author
-Sanskruti Chavan
+
